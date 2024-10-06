@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **RPA, Business Analysis, AWS**
 
-💬 Ask me about ** SQL, Linq, UI Path... or anything [here](https://github.com/moaz-shaker/issues)**
+💬 Ask me about ** SQL, Linq, UI Path... or anything [here](https://github.com/moaz-shaker/repository)**
 
 ⚡  fact ** Develop success from failures **
 

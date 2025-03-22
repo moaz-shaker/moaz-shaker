@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning **Business & Digital Analysis**
 
-💬 Ask me about ** SQL, Linq, UI Path... or anything [here](https://github.com/moaz-shaker?tab=repositories)**
+💬 Ask me about ** SQL, BI, Python ... or anything [here](https://github.com/moaz-shaker?tab=repositories)**
 
 ⚡  fact ** Develop success from failures **
 

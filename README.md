@@ -11,9 +11,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **Gulf & Middle East marketplace**
  
- 🌱 I’m currently learning **RPA, Business Analysis, AWS**
+ 🌱 I’m currently learning **Business & Digital Analysis**
 
 💬 Ask me about ** SQL, Linq, UI Path... or anything [here](https://github.com/moaz-shaker?tab=repositories)**
 
